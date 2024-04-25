@@ -56,4 +56,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/Campionii}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0081&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=footer"/>
