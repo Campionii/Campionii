@@ -27,6 +27,7 @@
 ![MySQL-Workbench](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=008B8B)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Xammp](https://img.shields.io/badge/Xammp-0D1117?style=for-the-badge&logo=xammp&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=000000&logoColor=2C2255)&nbsp;
  
 ### Meu conhecimento:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
